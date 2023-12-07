@@ -15,4 +15,4 @@ You can play around with the site by clicking or pressing keys to make some musi
 ## Technologies Used
 - **HTML:** The structure of the website.
 - **CSS:** Styles and layout.
-- **JavaScript:** Interactivity and animations.
+- **JavaScript:** Interactivity and functionality.
